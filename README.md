@@ -1,3 +1,5 @@
-## ICT4DEV-Data-Mining-Final-Project
-# This Project consists in the implementation of the data science pipeline
-Perform Data Representation,Exploration, Preparation and some Data Mining Tasks over a Malaria in Africa dataset
+#British Airways Passenger Reviews (2016-2023)
+This notebook implements the Data Science pipeline, where to perform exploratory data-driven analysis and acquire valuable insights from the british airways passengers reviews dataset, descriptive and predicitve data mining tasks need to be peformed.
+
+* https://www.kaggle.com/datasets/praveensaik/british-airways-passenger-reviews-2016-2023
+
